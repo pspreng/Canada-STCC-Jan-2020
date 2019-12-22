@@ -7,11 +7,11 @@ a {target: _blank}
 
 figure {
     display: inline-block;
-    margin: 20px; /* adjust as needed */
+    margin: 5px; /* adjust as needed */
 }
 
 figure img {
-    vertical-align: top;
+    vertical-align: left;
 }
 
 figure figcaption {
