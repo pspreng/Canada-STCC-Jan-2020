@@ -1,8 +1,27 @@
-p {color: black;}
-#section1 {color:blue;}
-#section2 {color:blue;}
-#section3 {color:black;}
-#section4 {color:blue;}
-#section5 {color:blue;}
-#section6 {color:blue;}
-#section7 {color:blue;}
+h1 {text-align: center;}
+
+p {color: black;
+   text-align: justify;}
+
+a {target: _blank}
+
+figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
+    text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 80%;
+}
